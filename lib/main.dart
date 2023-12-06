@@ -4,7 +4,7 @@ import 'package:g_p/pages/nav.dart';
 import 'package:flutter/services.dart';
 import 'package:g_p/pages/Home_Screen.dart';
 import 'package:g_p/pages/nav.dart';
-import '../pages/IntroScreen.dart';
+import 'pages/IntroScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 
